@@ -1,2 +1,3 @@
 This file shows imrpovement to the documentation.
 It now also fixes a bug.
+FInally it improves the project.
